@@ -18,8 +18,23 @@ phones.
 of the online bus ticket system is to provide another way for transnational customers to buy
 their tickets.
 ### UML DIAGRAMS:
+# USE CASE DIAGRAM:
+![soft ex 31](https://github.com/swetha1510/Lab-3-Railway-Reservation/assets/120623583/fb607a5e-ff5d-4f4a-ab6a-b92199b8a613)
 
+# CLASS DIAGRAM:
+![soft ex 32](https://github.com/swetha1510/Lab-3-Railway-Reservation/assets/120623583/de027abe-1731-471c-ac9a-7fc551c8a1ae)
 
+# ACTIVITY DIAGRAM:
+![soft ex 33](https://github.com/swetha1510/Lab-3-Railway-Reservation/assets/120623583/a9250843-e1f7-4440-b148-375e709a8d52)
+
+# PACKAGE DIAGRAM:
+![soft ex 34](https://github.com/swetha1510/Lab-3-Railway-Reservation/assets/120623583/e98733ab-4e60-49fa-ac4c-d317eafa4e23)
+
+# COMMUNICATION DIAGRAM:
+![soft ex 35](https://github.com/swetha1510/Lab-3-Railway-Reservation/assets/120623583/b069a013-2c1e-4779-863c-1cfa86a1a866)
+
+# SEQUENCE DIAGRAM:
+![soft ex 36](https://github.com/swetha1510/Lab-3-Railway-Reservation/assets/120623583/1b22163b-e65d-46d5-a8dd-f7aad73260c2)
 
 ### RESULT:
 Thus the project to develop e-ticketing system was developed using Star UML Software.
